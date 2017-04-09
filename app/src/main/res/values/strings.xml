@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">A7.2</string>
+    <string name="btnLabel">Add to DB</string>
+    <string name="defaultIns">Enter the Product name</string>
+</resources>
